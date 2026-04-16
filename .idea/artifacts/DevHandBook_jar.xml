@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DevHandBook:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DevHandBook_jar</output-path>
+    <root id="archive" name="DevHandBook.jar">
+      <element id="module-output" name="DevHandBook" />
+    </root>
+  </artifact>
+</component>
